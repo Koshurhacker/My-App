@@ -1,0 +1,6 @@
+{
+  "name": "vudoindia — Micro Dramas",
+  "description": "Creator-owned Indian micro-drama streaming platform with binge-worthy episodes, fast mobile player, and creator admin studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
